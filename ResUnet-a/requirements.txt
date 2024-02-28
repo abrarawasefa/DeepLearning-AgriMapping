@@ -1,0 +1,8 @@
+tensorflow-addons
+tensorflow
+h5py
+tqdm
+scikit-learn
+opencv-python
+numpy
+
