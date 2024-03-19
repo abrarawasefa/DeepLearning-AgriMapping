@@ -16,8 +16,12 @@ This repository contains implementation of the paper "ResUNet-a: a deep learning
 
 1. Clone this repo using :
 ```
-git clone https://github.com/Akhilesh64/ResUnet-a
-``` 
+git clone https://github.com/abrarawasefa/DeepLearning-AgriMapping.git
+```
+Go to ResUnet-a directory by 
+```
+cd ResUnet
+```
 2. Install the requirements using :
 ```
 pip install -r requirements.txt
